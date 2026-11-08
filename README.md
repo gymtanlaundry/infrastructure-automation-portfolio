@@ -179,7 +179,7 @@ To request access:
 
 Access is granted individually and is not automatic.
 
-**Email:** 
+**Email:** spins_chakra.8f@icloud.com
 
 **GitHub:** Use the Discussions tab on this repository to submit an access request.
 
